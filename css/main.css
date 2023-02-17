@@ -198,4 +198,10 @@ button {
         padding: 20px;
         height: auto;
         }
+        
+     .imgtwee {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        }
 }
